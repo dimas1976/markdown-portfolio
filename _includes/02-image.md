@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Andy Fletcher](https://www.depechemode.de/wp-content/uploads/2015/07/andy-fletcher1-768x433.jpg)
